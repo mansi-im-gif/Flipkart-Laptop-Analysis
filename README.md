@@ -95,6 +95,19 @@ The project explores relationships between:
 ### Dashboard View 4
 ![Dashboard View 4](images/dashboard-4.png)
 
+🔍 Key Insights
+
+The dashboard enables analysis of:
+
+- Laptop pricing across different brands and configurations
+- The relationship between laptop specifications and price
+- Discount patterns across products
+- Rating and review patterns among laptop listings
+- Availability of different laptop configurations
+- Distribution of RAM, storage, processors, operating systems, and touchscreen models
+
+These insights can help users compare laptop configurations and understand pricing and product trends within the analyzed dataset.
+
 🎯 Project Objective
 
 The objective of this project is to demonstrate an end-to-end Data Analytics workflow, from collecting and cleaning raw product data to building an interactive business intelligence dashboard.
@@ -102,3 +115,7 @@ The objective of this project is to demonstrate an end-to-end Data Analytics wor
 🚀 Skills Demonstrated
 
 Python • Data Cleaning • Data Transformation • Pandas • Regex • Exploratory Data Analysis • Power BI • Data Visualization • Dashboard Development • Git • GitHub
+
+## 📊 Power BI Dashboard
+
+[Download the Power BI Dashboard](./powerbi/laptops.pbix)
